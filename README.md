@@ -1,16 +1,21 @@
-<!-- 👁️ SMALL DEVIL BLINKING EYE COVER -->
+<!-- 🔥 PROFILE COVER -->
 <p align="center">
-  <img src="https://media.giphy.com/media/3ohhwytHcusSCXXOUg/giphy.gif" width="300" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8e2de2,100:4a00e0&height=180&section=header&text=ARPIT%20KATOLKAR&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=DevOps%20%7C%20Cloud%20Engineer&descAlignY=55&descSize=14" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Arpit Katolkar</h1>
 <h3 align="center">🚀 DevOps & Cloud Engineer | AWS | CI/CD | Automation</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=arpitkatolkar0512&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=arpitkatolkar0512&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 ---
+
+<!-- 🧑‍💻 ABOUT + ANIME RIGHT SIDE -->
+<table>
+<tr>
+<td width="60%">
 
 ## 🧑‍💻 About Me
 
@@ -20,13 +25,19 @@
 - 🛠️ Hands-on with real-world deployment & monitoring
 - 🎯 Goal: *Become a highly paid DevOps Engineer & build wealth through tech*
 
+</td>
+
+<td width="40%" align="center">
+
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="260"/>
+
+</td>
+</tr>
+</table>
+
 ---
 
 ## 🚀 Tech Stack
-
-<table>
-<tr>
-<td width="60%">
 
 ### ☁️ Cloud
 - AWS (EC2, EKS, IAM, VPC)
@@ -42,17 +53,6 @@
 
 ### 🌐 Web & Servers
 - Nginx
-
-</td>
-
-<td width="40%" align="center">
-
-<!-- 🥷 ANIME CARTOON NINJA -->
-<img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="220"/>
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -91,6 +91,15 @@
 ---
 
 ## 📫 Connect With Me
+
+- 📧 Email: arpitkatolkar0512@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/arpit-katolkar
+
+---
+
+## ⚡ Fun Fact
+
+> 💻 "Debugging is like being a detective in a crime movie where you are also the criminal 😄"
 
 - 📧 Email: [arpitkatolkar0512@gmail.com](mailto:arpitkatolkar0512@gmail.com)
 - 💼 LinkedIn: https://www.linkedin.com/in/arpit-katolkar
