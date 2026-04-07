@@ -1,6 +1,6 @@
-<!-- 🔥 NORMAL SIZE COVER (Hacker Eye Style) -->
+<!-- 👁️ SMALL DEVIL BLINKING EYE COVER -->
 <p align="center">
-  <img src="https://media.giphy.com/media/l0HlQ7LRalQqdWfao/giphy.gif" width="80%" />
+  <img src="https://media.giphy.com/media/3ohhwytHcusSCXXOUg/giphy.gif" width="300" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Arpit Katolkar</h1>
@@ -47,8 +47,8 @@
 
 <td width="40%" align="center">
 
-<!-- 👨‍💻 CODING ANIME NINJA -->
-<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="280"/>
+<!-- 🥷 ANIME CARTOON NINJA -->
+<img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="220"/>
 
 </td>
 </tr>
