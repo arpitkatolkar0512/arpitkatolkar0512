@@ -1,16 +1,97 @@
-## Hi there 👋
 
-<!--
-**arpitkatolkar0512/arpitkatolkar0512** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Arpit Katolkar</h1>
+<h3 align="center">🚀 DevOps & Cloud Engineer | AWS | CI/CD | Automation</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=arpitkatolkar0512&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+
+
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="250" />
+</p>
+
+<p align="center">
+  
+</p>
+
+---
+
+## 🧑‍💻 About Me
+
+- 🔭 Currently working on *Cloud & DevOps Projects*
+- 🌱 Learning *AWS, Kubernetes, Terraform, CI/CD Pipelines*
+- 💡 Passionate about *Automation, Scalable Systems & Cloud Architecture*
+- 🛠️ Hands-on with real-world deployment & monitoring
+- 🎯 Goal: *Become a highly paid DevOps Engineer & build wealth through tech*
+
+---
+
+## 🚀 Tech Stack
+
+### ☁️ Cloud
+- AWS (EC2, EKS, IAM, VPC)
+
+### ⚙️ DevOps & Tools
+- Jenkins, Docker, Kubernetes, Terraform
+
+### 🔧 Build & Version Control
+- Maven, Git, GitHub
+
+### 🔍 Monitoring & Security
+- CloudWatch, SonarQube, Trivy
+
+### 🌐 Web & Servers
+- Nginx
+
+---
+
+## 📂 Projects
+
+### 🔹 CI/CD Pipeline Project
+- Built complete CI/CD pipeline using *Jenkins + Docker + Kubernetes*
+- Integrated *SonarQube & Trivy* for security and code quality
+- Automated deployment on *AWS EKS*
+
+---
+
+### 🔹 VPC Peering Project
+- Configured secure communication between two VPCs
+- Managed *Route Tables, Security Groups & CIDR*
+- Enabled seamless resource sharing across environments
+
+---
+
+### 🔹 3-Tier Architecture on AWS
+- Deployed scalable architecture using:
+  - EC2 (Web Layer)
+  - ALB (Load Balancer)
+  - RDS/Aurora (Database)
+- Implemented *IAM & monitoring with CloudWatch*
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=arpitkatolkar0512&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arpitkatolkar0512&theme=tokyonight" />
+</p>
+
+---
+
+## 📫 Connect With Me
+
+- 📧 Email: [arpitkatolkar0512@gmail.com](mailto:arpitkatolkar0512@gmail.com)
+- 💼 LinkedIn: https://www.linkedin.com/in/arpit-katolkar
+
+---
+
+## ⚡ Fun Fact
+
+> 💻 "Debugging is like being a detective in a crime movie where you are also the criminal 😄"
+
+---
