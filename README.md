@@ -1,7 +1,6 @@
-
-<!-- 🔥 COVER BANNER (Hacker Eye Style) -->
+<!-- 🔥 NORMAL SIZE COVER (Hacker Eye Style) -->
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="100%" />
+  <img src="https://media.giphy.com/media/l0HlQ7LRalQqdWfao/giphy.gif" width="80%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Arpit Katolkar</h1>
@@ -48,8 +47,8 @@
 
 <td width="40%" align="center">
 
-<!-- 🥷 REAL NINJA ANIME (RIGHT SIDE BIG) -->
-<img src="https://media.giphy.com/media/26BRzozg4TCBXv6QU/giphy.gif" width="350"/>
+<!-- 👨‍💻 CODING ANIME NINJA -->
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="280"/>
 
 </td>
 </tr>
@@ -101,4 +100,3 @@
 ## ⚡ Fun Fact
 
 > 💻 "Debugging is like being a detective in a crime movie where you are also the criminal 😄"
----
