@@ -1,21 +1,14 @@
 
+<!-- 🔥 COVER BANNER (Hacker Eye Style) -->
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="100%" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Arpit Katolkar</h1>
 <h3 align="center">🚀 DevOps & Cloud Engineer | AWS | CI/CD | Automation</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=arpitkatolkar0512&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
-</p>
-
----
-
-
-
-<p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="250" />
-</p>
-
-<p align="center">
-  
 </p>
 
 ---
@@ -32,6 +25,10 @@
 
 ## 🚀 Tech Stack
 
+<table>
+<tr>
+<td width="60%">
+
 ### ☁️ Cloud
 - AWS (EC2, EKS, IAM, VPC)
 
@@ -46,6 +43,17 @@
 
 ### 🌐 Web & Servers
 - Nginx
+
+</td>
+
+<td width="40%" align="center">
+
+<!-- 🥷 REAL NINJA ANIME (RIGHT SIDE BIG) -->
+<img src="https://media.giphy.com/media/26BRzozg4TCBXv6QU/giphy.gif" width="350"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -93,5 +101,4 @@
 ## ⚡ Fun Fact
 
 > 💻 "Debugging is like being a detective in a crime movie where you are also the criminal 😄"
-
 ---
