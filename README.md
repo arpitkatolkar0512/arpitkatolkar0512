@@ -95,14 +95,7 @@
 - 📧 Email: arpitkatolkar0512@gmail.com
 - 💼 LinkedIn: https://www.linkedin.com/in/arpit-katolkar
 
----
 
-## ⚡ Fun Fact
-
-> 💻 "Debugging is like being a detective in a crime movie where you are also the criminal 😄"
-
-- 📧 Email: [arpitkatolkar0512@gmail.com](mailto:arpitkatolkar0512@gmail.com)
-- 💼 LinkedIn: https://www.linkedin.com/in/arpit-katolkar
 
 ---
 
